@@ -182,7 +182,7 @@ Daftar Nilai
 [(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : k
 Program selesai.
 ````
-![Flowchart](Diagram_Dict.drawio)
+![Flowchart](Diagram_Dictionary.png)
 
 ## Penjelasan
 Dalam codingan di atas kita membuat codingan daftar mahsiswa menggunkan Dictonary. Dalam codingan di atas terdapat beberapa fungsi yaitu:
