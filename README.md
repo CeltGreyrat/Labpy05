@@ -1,6 +1,6 @@
 # Membuat Daftar Mahasiswa Menggunakan Dictonary
 
-## Codingan
+## Code
 ```python
 data_mahasiswa = {}
 
@@ -113,7 +113,7 @@ while True:
         print("Pilihan tidak valid!")
 ````
 
-## Hasil Codingan
+## Output Code
 ````
 [(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : t
 Tambah Data
