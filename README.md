@@ -179,4 +179,4 @@ Daftar Nilai
 [(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : k
 Program selesai.
 ````
-[Flowchart](Diagram_)
+[Flowchart](Diagram_Dict.Drawio.png)
