@@ -1,6 +1,7 @@
 # Membuat Daftar Mahasiswa Menggunakan Dictonary
-Codingan
 
+## Codingan
+```python
 data_mahasiswa = {}
 
 def lihat_data():
@@ -110,6 +111,8 @@ while True:
         break
     else:
         print("Pilihan tidak valid!")
+````
+
 ## Hasil Codingan
 ````
 [(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : t
@@ -179,4 +182,4 @@ Daftar Nilai
 [(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : k
 Program selesai.
 ````
-[Flowchart](Diagram_Dict.Drawio.png)
+![Flowchart](Diagram_Dict.Drawio.png)
